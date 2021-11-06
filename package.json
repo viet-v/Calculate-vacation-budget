@@ -1,0 +1,8 @@
+{
+  "name": "js-calculate-vacation-budget",
+  "version": "1.0.0",
+  "description": "Calculate daily budget for food and fun, based on total budget, accommodation fee and travel days.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
