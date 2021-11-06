@@ -3,7 +3,7 @@ const dailyBudget = document.querySelector(".daily-budget");
 
 function tripInfo() {
   const totalBudget = Number(prompt("What is your total budget?"));
-  const accommodation = Number(prompt("What are your accomodation costs?"));
+  const accommodation = Number(prompt("What are your accommodation costs?"));
   const numDays = Number(prompt("How many days does your trip last?"));
   calculateDailyBudget(totalBudget, accommodation, numDays);
 }
